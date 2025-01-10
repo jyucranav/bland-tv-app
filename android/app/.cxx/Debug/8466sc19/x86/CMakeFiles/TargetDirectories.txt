@@ -1,0 +1,2 @@
+/home/johann/Documentos/Projects/Flutter/bland_tv/android/app/.cxx/Debug/8466sc19/x86/CMakeFiles/edit_cache.dir
+/home/johann/Documentos/Projects/Flutter/bland_tv/android/app/.cxx/Debug/8466sc19/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/home/johann/Documentos/Projects/Flutter/bland_tv/build/app/intermediates/cxx/Debug/8466sc19/obj/arm64-v8a

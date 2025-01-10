@@ -1,0 +1,1 @@
+/home/johann/Documentos/Projects/Flutter/bland_tv/build/app/intermediates/cxx/RelWithDebInfo/1p353463/obj/arm64-v8a
